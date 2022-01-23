@@ -1,4 +1,36 @@
 body {
     background-color: #9bb6c9;
-    font-family: sans-serif;
+    font-family: 'Lora', serif;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(63, 58, 58)
+}
+h2 {
+    font-size: 20px;
+}
+
+p strong{
+    background-color: rgb(42, 95, 128);
+    color: rgb(255,255,255);
+    font-style: italic;
+}
+
+strong{
+    color: rgb(255,255,255);
+}
+
+p {
+    font-size: 17px;
+    line-height: 24px;
+}
+.parrafo-destacado {
+    color: blue;
+    font-size: 20px;
+}
+
+.parrafo-destacado em {
+    color: rgb(255,255,255);
+    text-transform: uppercase;
 }
